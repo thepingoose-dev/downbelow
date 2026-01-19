@@ -1,4 +1,4 @@
-# Down Below (Demo) v0.1.7
+# Down Below (Demo) v0.1.7a
 
 ![Game Banner](https://i.imgur.com/lnTKA9K.png)
 
@@ -97,13 +97,13 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 
 ---
 
-**Build:** `0.1.7 (Demo)`
+**Build:** `0.1.7a (Demo)`
 
 ---
 
 ## Support & Feedback
 
-If you encounter issues or have suggestions, please report them via the itch.io project page or contact u/ThePingoose on Reddit. Include platform information, the exact build (`0.1.7`), and steps to reproduce any bugs.
+If you encounter issues or have suggestions, please report them via the itch.io project page or contact u/ThePingoose on Reddit. Include platform information, the exact build (`0.1.7a`), and steps to reproduce any bugs.
 
 ---
 
