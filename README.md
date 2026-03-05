@@ -46,6 +46,7 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 
 ## Links
 
+* [Steam — ThePingoose](https://store.steampowered.com/app/4280790/Down_Below/)
 * [Itch.io — ThePingoose](https://thepingoose.itch.io/)
 * [gd.games — Down Below Demo](https://gd.games/thepingoose/down-below-demo)
 * [Reddit — u/ThePingoose](https://www.reddit.com/user/ThePingoose/)
