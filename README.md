@@ -94,7 +94,7 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 * Glastone Pixel — Craft Supply Co.
 * Quagey Pixel — Craft Supply Co.
 
-*All fonts listed above are licensed under the SIL Open Font License (verify individual font licenses before commercial distribution).*
+*All fonts listed above are licensed under the SIL Open Font License*
 
 ---
 
