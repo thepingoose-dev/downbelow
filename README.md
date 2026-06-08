@@ -24,7 +24,7 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 ## Installation
 
 1. Unzip the distributed archive to any folder on your computer.
-2. Run the `Down Below Demo` executable to start the game.
+2. Run the `Down Below Chapter One` executable to start the game.
 3. Keep the `assets/` folder in the same directory as the executable — it contains the game's data.
 
 > **Note:** If the game fails to locate assets, confirm that the `assets/` folder and the executable are in the same directory and that file permissions allow read access.
@@ -71,7 +71,7 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 
 * Sourced from Pixabay (Pixabay License)
 * Thunder SFX: Friendly Free Sounds
-* Additional, modified SFX by u/ThePingoose from contributors including `freesound_community`, `chieuk`, `Universefield`, and `kakaist`.
+* Additional, modified SFX by u/ThePingoose from contributors including `freesound_community`, `chieuk`, `Universefield`, `kakaist`, `imagne_impossible`, and `DRAGON-STUDIO`
 
 **Digital Audio Workstations (DAWs)**
 
@@ -84,13 +84,9 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 
 **Fonts**
 
-* Silkscreen Bold — Jason Kottke
-* Mononoki Regular — Matthias Tellen
-* PressStart2P-Regular — Cody "CodeMan38" Boisclair
-* Kenney Mini Square — Sam Brishes
-* Pixelify Sans — Stefie Justprince
-* Glastone Pixel — Craft Supply Co.
-* Quagey Pixel — Craft Supply Co.
+* Silkscreen Bold by Jason Kottke
+* Mononoki Regular by Matthias Tellen
+* PressStart2P-Regular and Yoster Island by Cody "CodeMan38" Boisclair 
 
 *All fonts listed above are licensed under the SIL Open Font License*
 
