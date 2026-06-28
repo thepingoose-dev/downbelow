@@ -1,4 +1,4 @@
-# Down Below (Demo) v0.2.6
+# Down Below (Demo) v2026.28.6
 
 ![Game Banner](https://i.imgur.com/lnTKA9K.png)
 
@@ -12,33 +12,23 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 
 ## Key Features
 
-* Linear, story-based levels
-* Top-down, pixel-art presentation
-* Arena-style shooter combat
-* Original soundtrack
-* Souls-like UI and progression elements
-* Hidden easter eggs and secrets
-
----
-
-## Installation
-
-1. Unzip the distributed archive to any folder on your computer.
-2. Run the `Down Below Chapter One` executable to start the game.
-3. Keep the `assets/` folder in the same directory as the executable — it contains the game's data.
-
-> **Note:** If the game fails to locate assets, confirm that the `assets/` folder and the executable are in the same directory and that file permissions allow read access.
+- Linear, story-based levels
+- Top-down, pixel-art presentation
+- Arena-style shooter combat
+- Original soundtrack
+- Souls-like UI and progression elements
+- Hidden easter eggs and secrets
 
 ---
 
 ## How to Play / Controls
 
-* **W A S D** — Move
-* **Left Click** — Melee attack
-* **Right Click** — Ranged attack (aims toward the cursor)
-* **E** — Interact / Use
-* **Space** — *Contextual action:* dodge in arena levels; jump in platformer sections
-* **R** — Speed Up Dialogue
+- **W A S D** — Move
+- **Left Click** — Melee attack
+- **Right Click** — Ranged attack (aims toward the cursor)
+- **E** — Interact / Use
+- **Space** — _Contextual action:_ dodge in arena levels; jump in platformer sections
+- **R** — Speed Up Dialogue
 
 > **Tip:** Dodging is only available in arena combat; platforming sections use the same key to jump.
 
@@ -46,9 +36,9 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 
 ## Links
 
-* [Steam — ThePingoose](https://store.steampowered.com/app/4280790/Down_Below/)
-* [Reddit — u/ThePingoose](https://www.reddit.com/user/ThePingoose/)
-* [Patreon — ThePingoose](https://www.patreon.com/cw/ThePingoose)
+- [Steam — ThePingoose](https://store.steampowered.com/app/4280790/Down_Below/)
+- [Reddit — u/ThePingoose](https://www.reddit.com/user/ThePingoose/)
+- [Patreon — ThePingoose](https://www.patreon.com/cw/ThePingoose)
 
 ---
 
@@ -56,50 +46,50 @@ Step into **The Below**, a mysterious afterlife that draws from religions, myths
 
 **Developer**
 
-* u/ThePingoose
+- u/ThePingoose
 
 **Art & Visuals**
 
-* u/ThePingoose
-* Placidplace (via Pixabay)
+- u/ThePingoose
+- Placidplace (via Pixabay)
 
 **Game Mechanics / Design**
 
-* u/ThePingoose
+- u/ThePingoose
 
 **Sound Effects**
 
-* Sourced from Pixabay (Pixabay License)
-* Thunder SFX: Friendly Free Sounds
-* Additional, modified SFX by u/ThePingoose from contributors including `freesound_community`, `chieuk`, `Universefield`, `kakaist`, `imagne_impossible`, and `DRAGON-STUDIO`
+- Sourced from Pixabay (Pixabay License)
+- Thunder SFX: Friendly Free Sounds
+- Additional, modified SFX by u/ThePingoose from contributors including `freesound_community`, `chieuk`, `Universefield`, `kakaist`, `imagne_impossible`, and `DRAGON-STUDIO`
 
 **Digital Audio Workstations (DAWs)**
 
-* BandLab
-* Soundtrap
+- BandLab
+- Soundtrap
 
 **Game Engine**
 
-* GDevelop 5
+- GDevelop 5
 
 **Fonts**
 
-* Silkscreen Bold by Jason Kottke
-* Mononoki Regular by Matthias Tellen
-* PressStart2P-Regular and Yoster Island by Cody "CodeMan38" Boisclair 
+- Silkscreen Bold by Jason Kottke
+- Mononoki Regular by Matthias Tellen
+- PressStart2P-Regular and Yoster Island by Cody "CodeMan38" Boisclair
 
-*All fonts listed above are licensed under the SIL Open Font License*
+_All fonts listed above are licensed under the SIL Open Font License_
 
 ---
 
-**Build:** `0.2.6 (Demo)`
+**Build:** `2026.28.6 (Demo)`
 
 ---
 
 ## Support & Feedback
 
-If you encounter issues or have suggestions, please report them via the itch.io project page or contact u/ThePingoose on Reddit. Include platform information, the exact build (`0.2.6`), and steps to reproduce any bugs.
+If you encounter issues or have suggestions, please report them via the discord feedback channel page, mention it via the subreddit (both links in game) or mention it on steam community. Include platform information, the exact build (`2026.28.6`), and steps to reproduce any bugs.
 
 ---
 
-*Thank you for trying the Down Below demo. Your feedback helps shape future updates.*
+_Thank you for trying the Down Below demo. Your feedback helps shape future updates._
