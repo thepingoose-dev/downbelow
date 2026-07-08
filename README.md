@@ -1,4 +1,4 @@
-# Down Below (Demo) v2026.28.6
+# Down Below (Demo) v2026.7.8
 
 ![Game Banner](https://i.imgur.com/lnTKA9K.png)
 
@@ -82,13 +82,13 @@ _All fonts listed above are licensed under the SIL Open Font License_
 
 ---
 
-**Build:** `2026.28.6 (Demo)`
+**Build:** `2026.7.8 (Demo)`
 
 ---
 
 ## Support & Feedback
 
-If you encounter issues or have suggestions, please report them via the discord feedback channel page, mention it via the subreddit (both links in game) or mention it on steam community. Include platform information, the exact build (`2026.28.6`), and steps to reproduce any bugs.
+If you encounter issues or have suggestions, please report them via the discord feedback channel page, mention it via the subreddit (both links in game) or mention it on steam community. Include platform information, the exact build (`2026.7.8`), and steps to reproduce any bugs.
 
 ---
 
