@@ -1,7 +1,5 @@
 # Down Below (Demo) v2026.8.3
 
-![Game Banner]([Imgur](https://imgur.com/CT76CSx))
-
 ---
 
 ## Description
