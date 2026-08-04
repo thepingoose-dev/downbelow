@@ -1,6 +1,6 @@
 # Down Below (Demo) v2026.8.3
 
-![Game Banner](https://i.imgur.com/lnTKA9K.png)
+![Game Banner]([https://i.imgur.com/lnTKA9K.png](https://imgur.com/gallery/down-below-poster-2-tmT6pce#CT76CSx))
 
 ---
 
